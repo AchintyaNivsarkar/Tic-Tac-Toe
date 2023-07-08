@@ -123,8 +123,8 @@ using namespace std;
     cout<<endl<<"Enter Name of Player 2 : ";
     getline(cin,n2);
 
-    cout<<"Player1 - "<<n1<<" will play first  \n";
-    cout<<"Player2 - "<<n2<<" will play second  \n";
+    cout<<"Player1 - "<<n1<<" will play first (X)  \n";
+    cout<<"Player2 - "<<n2<<" will play second (O) \n";
 
     while(!fun3()){
         fun1();
